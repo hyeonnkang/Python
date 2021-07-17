@@ -1,9 +1,6 @@
 {
-    "python.formatting.provider": "black",
-    "python.formatting.blackArgs": [
-        "--line-length",
-        "100"
-    ],
-    "editor.formatOnSave": true,
-    "python.pythonPath": "..\\Python39\\python.exe"
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length", "100"],
+  "editor.formatOnSave": true,
+  "python.pythonPath": "C:\\Python39\\python.exe"
 }
